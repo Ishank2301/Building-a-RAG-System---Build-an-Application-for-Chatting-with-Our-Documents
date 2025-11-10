@@ -1,6 +1,6 @@
 # RAG Simplified Project
 
-![RAG System Banner](https://i.imgur.com/gx1NT2g.jpg)
+![RAG System Banner](https://www.chitika.com/content/images/2025/02/image6-5.jpg)
 
 ## Overview
 This project showcases a modern Retrieval-Augmented Generation (RAG) system, enabling you to chat with your own documents using advanced language and machine learning techniques. Powered by Python, Ollama for local LLM serving, and Meta's Llama3 model, it delivers intelligent, privacy-conscious natural language interfaces that understand and use your files.
@@ -27,7 +27,7 @@ This project showcases a modern Retrieval-Augmented Generation (RAG) system, ena
 4. **Generation:** Llama3 generates a tailored, insightful response.
 
 ## Screenshot
-![App Screenshot](https://i.imgur.com/hDS3vAB.png)
+![App Screenshot](https://www.chitika.com/content/images/2025/02/image4-1.jpg)
 
 ## Getting Started
 1. Clone this repo.
